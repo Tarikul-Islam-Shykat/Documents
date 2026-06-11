@@ -54,7 +54,7 @@ https://localcoupons.ai/.well-known/assetlinks.json
       "namespace": "android_app",
       "package_name": "com.local.coupons.app",
       "sha256_cert_fingerprints": [
-        "D7:DC:DE:70:67:E0:63:D0:0C:3E:92:0E:C8:A1:FC:76:5F:D4:D5:DE:F7:F5:27:AD:65:C9:47:B8:B3:BE:EE:56"
+        ""
       ]
     }
   }
